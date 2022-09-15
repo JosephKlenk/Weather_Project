@@ -1,0 +1,76 @@
+
+
+.day1  {
+  width: 50px;
+  margin-top: 20px;
+  padding: 50px;
+  border-radius: 20px;
+  margin-left: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  background: rgb(245, 242, 242);
+  border: 1px solid black;
+}
+
+.day2 {
+  width: 50px;
+  margin-top: 20px;
+  margin-left: 35%;
+  padding: 50px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  background: rgb(245, 242, 242);
+  border: 1px solid black;
+}
+
+.day3 {
+  width: 50px;
+  margin-top: 20px;
+  margin-left: 45%;
+  padding: 50px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  background: rgb(245, 242, 242);
+  border: 1px solid black;
+}
+
+.day4 {
+  width: 50px;
+  margin-top: 20px;
+  margin-left: 55%;
+  padding: 50px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  background: rgb(245, 242, 242);
+  border: 1px solid black;
+}
+
+.day5 {
+  width: 50px;
+  margin-top: 20px;
+  margin-left: 65%;
+  padding: 50px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  background: rgb(245, 242, 242);
+  border: 1px solid black;
+}
